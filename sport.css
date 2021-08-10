@@ -1,0 +1,90 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.wrapp{
+    display: inline-flex;
+    background-color: red;
+    width: 100%;
+}
+.head{
+    width: 20%;
+    display: inline-flex;
+    
+    
+    
+    
+}
+.Img_logo{
+    width: 50%;
+}
+.Img_logo img{
+    width: 20px;
+    height: 20px;
+    padding-top: 20px;
+    float: right;
+    padding-right: 12px;
+    float: right;
+}
+.Name{
+    color: white;
+    width: 50%;
+}
+.Name h2{
+    font-style: oblique;
+    font-size: 22px;
+}
+.nav_bar{
+    display: inline-flex;
+    width: 60%;
+}
+   
+.nav_bar ul{
+    display: inline-flex;
+    list-style: none;
+    width: 100%;
+    margin:20px 0px;
+    padding: 0px;
+   
+}
+.nav_bar li{
+    display: inline-flex;
+    width: 14%;
+}
+.nav_bar ul li a{
+    display: inline-flex;
+    text-decoration: none;
+    color: white;
+    justify-content: space-between;
+    font-weight: bold;
+}
+.nav_LogoSection{
+display: inline-flex;
+float: right;
+margin-top: 20px;
+width: 20%;
+}
+.icon{
+    width: 50%;
+}
+.nav_Seacrch_icon{
+    margin-left: 100px;
+    display: inline-flex;
+}
+.nav_Logo_location{
+    float: right;
+    margin-right: 10px;
+    display: inline-flex;
+    
+}
+.nav_india{
+    display: inline-flex;
+    width: 50%;
+    margin-left: 8px;
+    
+}
+.nav_india img{
+
+    width: 20px;
+    height: 20px;
+}
